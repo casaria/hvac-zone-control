@@ -133,7 +133,7 @@ The system needs three things to run: **Wi-Fi**, **power**, and the **Home Assis
 ## 8. Contacts
 | Role | Name | Phone / email |
 |---|---|---|
-| HVAC contractor who knows this installation | **(Casaria technology, Inc. Manuel Cardenas)** |(213) 304-9766 |
+| HVAC contractor who knows this installation | **(Casaria technology, Inc.)** | Provided separately |
 | Whoever maintains the controller and Home Assistant | **(home ownner)** | |
 | Daikin dealer / service | **(all local HVAC contractors)** | |
 
